@@ -1,0 +1,55 @@
+*{
+  margin: 10px;
+  padding: 0%;
+  font-family: montserrat;
+}
+
+body{
+ background-image: linear-gradient(120deg,#3498db,#8e44ad);
+}
+
+.login{
+    width: 100%;
+    padding: 37px 10px;
+    border-radius: 20px;
+    background: white;
+    top: 50%;
+}
+
+.login h1{
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.boton1{
+  display: block;
+  width: 100%;
+  height: 50px;
+  border-radius: 13px;
+  background:#1abc9c;
+  font-size: 20px;
+    opacity: 0.7;
+  color: #fff;
+ 
+}
+.boton2{
+  width: 100%;
+  height: 50px;
+  border-radius: 13px;
+  background:#f0932b;
+  font-size: 20px;
+  color: #fff;
+opacity: 0.9;
+}
+
+.arrelgo{
+
+    padding-right: 0%;
+}
+.form-control{
+    border-color: blue;
+}
+
+.L{
+    font-size: 22px
+}
